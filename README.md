@@ -13,3 +13,9 @@ cdktf output --outputs-file-include-sensitive-outputs --outputs-file secrets.jso
 ```
 
 ## Manual Tasks
+1. You need to add a new Azure Managed Domain.
+2. Connect it to Email Communication Service.
+3. Update the settings in your source code.
+
+[!(https://img.youtube.com/vi/JEpVUiNwR7c/0.jpg)](https://www.youtube.com/watch?v=JEpVUiNwR7c)
+
